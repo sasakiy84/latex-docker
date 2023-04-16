@@ -1,0 +1,1 @@
+FROM paperist/texlive-ja:2022-alpine
